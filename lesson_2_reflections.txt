@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git folder and whatever md files created. No commits made. No files tracked.
+
+-----------------------------------------------------
+
