@@ -6,3 +6,14 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 only contains files to be tracked in git
+
+-----------------------------------------------------
+How can you use the staging area to make sure you have one commit per logical change?
+
+It is used as intermediate buffer before you commit, and have to add files manually.
+
+-----------------------------------------------------
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Introducing experimental features, special cases
+
