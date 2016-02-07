@@ -17,3 +17,13 @@ What are some situations when branches would be helpful in keeping your history 
 
 Introducing experimental features, special cases
 
+-----------------------------------------------------
+How do the diagrams help you visualize the branch structure?
+
+Which branch came out from which one. Easier merging planning. Accessible and inaccessible commits.
+
+-----------------------------------------------------
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging changed lines, allow to merge new features or bug fixes into master branch for example.
