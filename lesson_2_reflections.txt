@@ -27,3 +27,10 @@ Which branch came out from which one. Easier merging planning. Accessible and in
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging changed lines, allow to merge new features or bug fixes into master branch for example.
+
+-----------------------------------------------------
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Fast and effortless if automatic. Conflicts arize and have to be resolved manually.
+
