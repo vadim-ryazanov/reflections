@@ -10,3 +10,11 @@ More control. Maybe you want to push only when some stage ic complete which took
 
 --------------------------------------------------------------
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks - done in github and link to original repository is preserved
+Clones - Just copy repo, no previous history (apart from commits)
+Branches - in same repo, different features, etc.
+
+--------------------------------------------------------------
+
