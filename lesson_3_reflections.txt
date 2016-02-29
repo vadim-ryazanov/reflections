@@ -18,3 +18,16 @@ Branches - in same repo, different features, etc.
 
 --------------------------------------------------------------
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Can compare you local branch to it. Good especially when collaborating or working from different machines.
+
+--------------------------------------------------------------
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Easier with git and gihub. Could send revised versions of files to all involved asking for comments, if everybody is ok
+they update their versions. Very inefficint and slow. Especially if many people working on the project.
+
+---------------------------------------------------------------
+
