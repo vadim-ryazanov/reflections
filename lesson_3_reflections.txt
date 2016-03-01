@@ -31,3 +31,8 @@ they update their versions. Very inefficint and slow. Especially if many people 
 
 ---------------------------------------------------------------
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Collaboration. People can work on their own brances without too much congestion in master branch.
+
+
